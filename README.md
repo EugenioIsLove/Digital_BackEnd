@@ -1,4 +1,4 @@
-# Projeto Backend - Dcollege
+# Projeto Backend - Digital college
 
 Este repositório contém o backend do projeto Geração Tech, desenvolvido como parte de um trabalho acadêmico para o curso de Desenvolvimento Full Stack.
 
